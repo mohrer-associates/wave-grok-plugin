@@ -1,0 +1,14 @@
+{
+  "name": "wave",
+  "version": "1.0.0",
+  "description": "Search and synthesize your Wave meetings, phone calls, and recordings — semantic search over transcripts and summaries, meeting prep, weekly digests, verbatim quotes, and action items via the hosted Wave MCP server.",
+  "author": {
+    "name": "Wave",
+    "url": "https://wave.co"
+  },
+  "homepage": "https://wave.co",
+  "repository": "https://github.com/mohrer-associates/wave-grok-plugin",
+  "license": "MIT",
+  "keywords": ["wave", "wave ai", "meeting notes", "transcripts", "mcp"],
+  "logo": "assets/logo.svg"
+}
