@@ -1,0 +1,17 @@
+{
+  "name": "wave",
+  "displayName": "Wave",
+  "version": "1.0.0",
+  "description": "Search and synthesize your Wave meetings, phone calls, and recordings — semantic search over transcripts and summaries, meeting prep, weekly digests, verbatim speaker-labeled quotes, and action items via the hosted Wave MCP server. Sign in with your Wave account (OAuth); no API key needed.",
+  "author": {
+    "name": "Wave",
+    "email": "support@wave.co",
+    "url": "https://wave.co"
+  },
+  "homepage": "https://wave.co",
+  "repository": "https://github.com/mohrer-associates/wave-grok-plugin",
+  "license": "MIT",
+  "logo": "assets/logo-square.svg",
+  "keywords": ["wave", "wave ai", "meeting notes", "meeting transcripts", "call recordings", "action items", "mcp"],
+  "mcpServers": "./mcp.json"
+}
